@@ -9,9 +9,9 @@ CORS(app)
 app.config['MAIL_SERVER'] = 'smtp.gmail.com'
 app.config['MAIL_PORT'] = 587
 app.config['MAIL_USE_TLS'] = True
-app.config['MAIL_USERNAME'] = 'seuemail@gmail.com'         # SEU E-MAIL GMAIL
-app.config['MAIL_PASSWORD'] = 'sua_senha_de_app'           # SENHA DE APP GERADA
-app.config['MAIL_DEFAULT_SENDER'] = ('Barbearia', 'seuemail@gmail.com')
+app.config['MAIL_USERNAME'] = 'jotaprxdx19@gmail.com'         # SEU E-MAIL GMAIL
+app.config['MAIL_PASSWORD'] = 'stnog asiu tekm jdkg'           # SENHA DE APP GERADA
+app.config['MAIL_DEFAULT_SENDER'] = ('Barbearia', 'jotaprxdx19@gmail.com')
 
 mail = Mail(app)
 
